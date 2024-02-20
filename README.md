@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/setsujin"><img src="https://api.daily.dev/devcards/v2/3hZxXGGDeedAoNsTTzjhJ.png?r=jty&type=default" width="356" alt="Joe's Dev Card"/></a>
+<a href="https://app.daily.dev/setsujin"><img src="./devcard.png" width="356" alt="Joe's Dev Card"/></a>
 
 <!--
 **jegra/jegra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
